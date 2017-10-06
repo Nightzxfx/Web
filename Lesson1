@@ -1,0 +1,6 @@
+at the linux command line.
+
+gem install jekyll
+jekyll new website-name
+cd website-name
+jekyll server
